@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ord-1",
+    "orderNo": "ORD-20260309-001",
+    "customer": "Serati Ma",
+    "product": "Ergo Office Chair",
+    "amount": 249.99,
+    "payment": "paid",
+    "status": "completed",
+    "shippingAddress": "77 Zhuan Road, Xihu District",
+    "createdAt": "2026-03-09 09:05"
+  },
+  {
+    "id": "ord-2",
+    "orderNo": "ORD-20260309-002",
+    "customer": "Annie Zhang",
+    "product": "4K Desk Monitor",
+    "amount": 389.50,
+    "payment": "unpaid",
+    "status": "processing",
+    "shippingAddress": "18 Binhe Avenue, Hangzhou",
+    "createdAt": "2026-03-09 10:30"
+  },
+  {
+    "id": "ord-3",
+    "orderNo": "ORD-20260308-118",
+    "customer": "David Nguyen",
+    "product": "Wireless Keyboard",
+    "amount": 79.90,
+    "payment": "paid",
+    "status": "shipped",
+    "shippingAddress": "12 Nguyen Hue, District 1",
+    "createdAt": "2026-03-08 14:45"
+  },
+  {
+    "id": "ord-4",
+    "orderNo": "ORD-20260307-094",
+    "customer": "Mina Tran",
+    "product": "Spring Promo Bundle",
+    "amount": 99.00,
+    "payment": "refunded",
+    "status": "cancelled",
+    "shippingAddress": "221 Le Loi, Ho Chi Minh City",
+    "createdAt": "2026-03-07 11:20"
+  }
+]

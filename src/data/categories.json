@@ -1,0 +1,29 @@
+[
+  {
+    "id": "cat-1",
+    "name": "Office Furniture",
+    "slug": "office-furniture",
+    "description": "Desks, chairs, storage, and workspace accessories for modern teams.",
+    "productCount": 128,
+    "status": "active",
+    "updatedAt": "2026-03-08 09:10"
+  },
+  {
+    "id": "cat-2",
+    "name": "Consumer Electronics",
+    "slug": "consumer-electronics",
+    "description": "Personal devices, audio equipment, and home electronics.",
+    "productCount": 86,
+    "status": "active",
+    "updatedAt": "2026-03-07 16:40"
+  },
+  {
+    "id": "cat-3",
+    "name": "Archived Seasonal",
+    "slug": "archived-seasonal",
+    "description": "Retired campaign categories kept for historical reporting.",
+    "productCount": 14,
+    "status": "inactive",
+    "updatedAt": "2026-03-05 11:20"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "stats": {
+    "projects": 56,
+    "ranking": "8 / 24",
+    "visits": 2223
+  },
+  "projects": [
+    {
+      "id": "proj-1",
+      "name": "Alipay",
+      "description": "Internal product workflows and service coordination for platform operations.",
+      "group": "Science Move Group",
+      "updatedAgo": "a few seconds ago"
+    },
+    {
+      "id": "proj-2",
+      "name": "Angular",
+      "description": "Component migration and admin tooling improvements for the new delivery cycle.",
+      "group": "Design System Guild",
+      "updatedAgo": "9 years ago"
+    },
+    {
+      "id": "proj-3",
+      "name": "Ant Design",
+      "description": "Operational improvements and collaboration support for ecosystem teams.",
+      "group": "Middle Platform",
+      "updatedAgo": "a few seconds ago"
+    },
+    {
+      "id": "proj-4",
+      "name": "Admin Pro",
+      "description": "Workspace productivity upgrade focused on dashboards, CRUD, and delivery speed.",
+      "group": "Engineering Daily",
+      "updatedAgo": "9 years ago"
+    },
+    {
+      "id": "proj-5",
+      "name": "Bootstrap",
+      "description": "Visual refinement and content restructuring for internal product modules.",
+      "group": "High-Speed Design Team",
+      "updatedAgo": "9 years ago"
+    },
+    {
+      "id": "proj-6",
+      "name": "React",
+      "description": "Frontend architecture, page composition, and component quality improvements.",
+      "group": "Frontend Guild",
+      "updatedAgo": "9 years ago"
+    }
+  ],
+  "shortcuts": ["Operation center", "Approval queue", "Product catalog", "Order board", "Data analysis"],
+  "radar": {
+    "personal": [10, 8, 5, 6, 8],
+    "team": [8, 7, 6, 8, 7],
+    "department": [4, 5, 8, 7, 5]
+  },
+  "activity": [
+    "Qu Lili created a new project in High-Speed Design Team: June iteration",
+    "Fu Xiaoxiao created a new project in High-Speed Design Team: June iteration",
+    "Lin Dongdong created a new project in Middle Platform: June iteration",
+    "Zhou Xingxing updated the release status for Daily Work: May iteration",
+    "Zhu Pianyou posted a new comment in Engineering Efficiency"
+  ],
+  "team": [
+    "Science Move",
+    "Full Group",
+    "Middle Platform",
+    "Engineer Daily",
+    "High Speed",
+    "Frontend"
+  ]
+}

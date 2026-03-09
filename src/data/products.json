@@ -1,0 +1,46 @@
+[
+  {
+    "id": "prod-1",
+    "name": "Ergo Office Chair",
+    "sku": "CHAIR-ERG-001",
+    "category": "Office Furniture",
+    "description": "Adjustable ergonomic chair with lumbar support and breathable mesh.",
+    "price": 249.99,
+    "stock": 42,
+    "status": "active",
+    "updatedAt": "2026-03-08 10:15"
+  },
+  {
+    "id": "prod-2",
+    "name": "4K Desk Monitor",
+    "sku": "MON-4K-027",
+    "category": "Consumer Electronics",
+    "description": "27-inch UHD monitor designed for productivity setups.",
+    "price": 389.5,
+    "stock": 18,
+    "status": "active",
+    "updatedAt": "2026-03-07 15:40"
+  },
+  {
+    "id": "prod-3",
+    "name": "Spring Promo Bundle",
+    "sku": "BNDL-SPR-2026",
+    "category": "Archived Seasonal",
+    "description": "Legacy seasonal bundle retained for historical campaign records.",
+    "price": 99,
+    "stock": 0,
+    "status": "outOfStock",
+    "updatedAt": "2026-03-05 09:30"
+  },
+  {
+    "id": "prod-4",
+    "name": "Wireless Keyboard",
+    "sku": "KEY-WL-102",
+    "category": "Consumer Electronics",
+    "description": "Compact wireless keyboard with multi-device pairing.",
+    "price": 79.9,
+    "stock": 65,
+    "status": "draft",
+    "updatedAt": "2026-03-04 13:05"
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "name": "ant-design-pro",
+  "version": "7.0.0",
+  "private": true,
+  "packageManager": "yarn@1.22.22",
+  "description": "Admin Pro dashboard built with Next.js 16, Ant Design 6, and mock server APIs.",
+  "author": {
+    "name": "Nguyen Dong Phuong",
+    "email": "phuongnd468@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phuongnd468-svg/Dashboard-Admin-Pro"
+  },
+  "homepage": "https://github.com/phuongnd468-svg/Dashboard-Admin-Pro",
+  "bugs": {
+    "url": "https://github.com/phuongnd468-svg/Dashboard-Admin-Pro/issues"
+  },
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "lint": "npm run biome:lint && npm run tsc",
+    "lint-staged": "lint-staged",
+    "biome:lint": "biome lint .",
+    "prepare": "husky",
+    "start": "next start",
+    "tsc": "tsc --noEmit"
+  },
+  "browserslist": [
+    "defaults"
+  ],
+  "dependencies": {
+    "@ant-design/cssinjs": "^2.1.2",
+    "@ant-design/icons": "^6.1.0",
+    "@ant-design/nextjs-registry": "^1.3.0",
+    "antd": "^6.3.1",
+    "antd-style": "^4.1.0",
+    "clsx": "^2.1.1",
+    "dayjs": "^1.11.19",
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^20.1.0",
+    "@commitlint/config-conventional": "^20.0.0",
+    "@types/node": "^25.3.5",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@biomejs/biome": "^2.1.1",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.1.2",
+    "typescript": "^5.9.3"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

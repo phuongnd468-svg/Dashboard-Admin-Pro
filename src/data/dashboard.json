@@ -1,0 +1,75 @@
+{
+  "metrics": {
+    "sales": {
+      "total": 126560,
+      "daily": 12423,
+      "weekOnWeek": 12,
+      "dayOnDay": 11
+    },
+    "visits": {
+      "total": 8846,
+      "daily": 1234,
+      "trend": [48, 60, 66, 42, 58, 50, 66, 34, 58, 72, 46, 54]
+    },
+    "payments": {
+      "total": 6560,
+      "conversionRate": 60,
+      "bars": [34, 26, 18, 10, 36, 21, 28, 22, 47, 31, 12, 6, 24, 18, 29, 23]
+    },
+    "effect": {
+      "percent": 78,
+      "weekOnWeek": 12,
+      "dayOnDay": 11
+    }
+  },
+  "overview": {
+    "salesByMonth": [220, 520, 1160, 800, 380, 920, 360, 280, 790, 490, 780, 340],
+    "visitsByMonth": [180, 420, 760, 610, 310, 700, 330, 250, 630, 410, 690, 290],
+    "ranking": [
+      { "id": "rank-1", "name": "Zhuan Road Store 0", "value": 323234 },
+      { "id": "rank-2", "name": "Zhuan Road Store 1", "value": 318992 },
+      { "id": "rank-3", "name": "Zhuan Road Store 2", "value": 301224 },
+      { "id": "rank-4", "name": "Zhuan Road Store 3", "value": 284110 },
+      { "id": "rank-5", "name": "Zhuan Road Store 4", "value": 263987 },
+      { "id": "rank-6", "name": "Zhuan Road Store 5", "value": 244876 },
+      { "id": "rank-7", "name": "Zhuan Road Store 6", "value": 223540 }
+    ],
+    "range": {
+      "start": "2026-01-01",
+      "end": "2026-12-31"
+    }
+  },
+  "search": {
+    "searchUsers": 17.1,
+    "perCapita": 26.2,
+    "rows": [
+      { "id": "search-1", "keyword": "Search keyword-0", "users": 594, "change": 29, "trend": "up" },
+      { "id": "search-2", "keyword": "Search keyword-1", "users": 21, "change": 82, "trend": "down" },
+      { "id": "search-3", "keyword": "Search keyword-2", "users": 885, "change": 83, "trend": "down" },
+      { "id": "search-4", "keyword": "Search keyword-3", "users": 530, "change": 13, "trend": "down" },
+      { "id": "search-5", "keyword": "Search keyword-4", "users": 977, "change": 38, "trend": "down" }
+    ]
+  },
+  "salesCategories": [
+    { "label": "Home appliances", "value": 4544, "color": "#1677ff" },
+    { "label": "Food & drink", "value": 3321, "color": "#13c2c2" },
+    { "label": "Personal care", "value": 3113, "color": "#fa8c16" },
+    { "label": "General goods", "value": 2341, "color": "#b37feb" },
+    { "label": "Mother & baby", "value": 1231, "color": "#7f6be8" },
+    { "label": "Other", "value": 1231, "color": "#73d13d" }
+  ],
+  "storePerformance": {
+    "stores": [
+      { "id": "store-0", "name": "Stores 0", "conversionRate": 72 },
+      { "id": "store-1", "name": "Stores 1", "conversionRate": 36 },
+      { "id": "store-2", "name": "Stores 2", "conversionRate": 78 },
+      { "id": "store-3", "name": "Stores 3", "conversionRate": 68 },
+      { "id": "store-4", "name": "Stores 4", "conversionRate": 24 },
+      { "id": "store-5", "name": "Stores 5", "conversionRate": 42 },
+      { "id": "store-6", "name": "Stores 6", "conversionRate": 58 }
+    ],
+    "timeLabels": ["11:39", "12:09", "12:39", "13:09", "13:39", "14:09", "14:39", "15:09", "15:39", "16:09", "16:39", "17:09", "17:39", "18:09", "18:39", "19:09", "19:39", "20:09", "20:39", "21:09"],
+    "trafficSeries": [90, 18, 84, 36, 12, 86, 42, 34, 56, 70, 104, 72, 94, 86, 102, 100, 50, 82, 42, 90],
+    "paymentsSeries": [76, 12, 44, 86, 100, 100, 48, 46, 34, 58, 98, 32, 92, 42, 20, 42, 20, 50, 42, 82]
+  }
+}

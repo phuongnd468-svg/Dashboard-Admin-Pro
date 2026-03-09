@@ -1,0 +1,52 @@
+[
+  {
+    "id": "usr-1001",
+    "name": "Admin User",
+    "email": "admin@example.com",
+    "role": "Administrator",
+    "status": "active",
+    "phone": "+1 202-555-0131",
+    "lastLogin": "2026-03-09 09:15",
+    "permissionIds": ["perm-1001", "perm-1002", "perm-1003", "perm-1005"]
+  },
+  {
+    "id": "usr-1002",
+    "name": "Olivia Stone",
+    "email": "olivia.stone@example.com",
+    "role": "Operations Manager",
+    "status": "active",
+    "phone": "+1 202-555-0182",
+    "lastLogin": "2026-03-08 18:42",
+    "permissionIds": ["perm-1001", "perm-1003", "perm-1005"]
+  },
+  {
+    "id": "usr-1003",
+    "name": "Noah Carter",
+    "email": "noah.carter@example.com",
+    "role": "Catalog Editor",
+    "status": "inactive",
+    "phone": "+1 202-555-0168",
+    "lastLogin": "2026-03-04 11:08",
+    "permissionIds": ["perm-1001", "perm-1004"]
+  },
+  {
+    "id": "usr-1004",
+    "name": "Emma Wilson",
+    "email": "emma.wilson@example.com",
+    "role": "Finance Reviewer",
+    "status": "active",
+    "phone": "+1 202-555-0109",
+    "lastLogin": "2026-03-09 08:20",
+    "permissionIds": ["perm-1001", "perm-1003"]
+  },
+  {
+    "id": "usr-1005",
+    "name": "Liam Foster",
+    "email": "liam.foster@example.com",
+    "role": "Support Agent",
+    "status": "suspended",
+    "phone": "+1 202-555-0199",
+    "lastLogin": "2026-02-27 15:33",
+    "permissionIds": ["perm-1001"]
+  }
+]

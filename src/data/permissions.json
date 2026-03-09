@@ -1,0 +1,52 @@
+[
+  {
+    "id": "perm-1001",
+    "name": "users.read",
+    "module": "Users",
+    "action": "read",
+    "scope": "global",
+    "description": "View user profiles, role assignments, and login history.",
+    "status": "active",
+    "updatedAt": "2026-03-08 09:40"
+  },
+  {
+    "id": "perm-1002",
+    "name": "users.write",
+    "module": "Users",
+    "action": "write",
+    "scope": "global",
+    "description": "Create, update, suspend, and restore user accounts.",
+    "status": "active",
+    "updatedAt": "2026-03-08 09:42"
+  },
+  {
+    "id": "perm-1003",
+    "name": "orders.approve",
+    "module": "Orders",
+    "action": "approve",
+    "scope": "regional",
+    "description": "Approve flagged orders and fulfillment exceptions.",
+    "status": "active",
+    "updatedAt": "2026-03-07 16:18"
+  },
+  {
+    "id": "perm-1004",
+    "name": "products.publish",
+    "module": "Products",
+    "action": "publish",
+    "scope": "brand",
+    "description": "Publish product changes after catalog review is complete.",
+    "status": "inactive",
+    "updatedAt": "2026-03-05 10:14"
+  },
+  {
+    "id": "perm-1005",
+    "name": "analytics.export",
+    "module": "Analytics",
+    "action": "export",
+    "scope": "global",
+    "description": "Export dashboard snapshots and operational reports.",
+    "status": "active",
+    "updatedAt": "2026-03-06 13:22"
+  }
+]
